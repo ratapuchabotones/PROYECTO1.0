@@ -1,0 +1,52 @@
+body {
+    background-color: #F4F1F1;
+    display: block;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+div.primero {
+    background-color: #FF6B81;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 3em;
+    font-weight: 700;
+    color: #fff;
+}
+
+p {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.6;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+p.uno {
+    background-color: #F6E1A3;
+}
+
+p.dos {
+    background-color: #4E91A7;
+}
+
+p.tres {
+    background-color: #2E4A47;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+}
